@@ -6,7 +6,6 @@ import java.util.Random;
  * Represents some Hills that can be explored by a Civilization.
  *
  * @version 1.0
- * @author Angie Palm
  */
 class Hills {
     private static Random rand = new Random();
