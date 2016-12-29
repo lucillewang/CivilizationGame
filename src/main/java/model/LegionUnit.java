@@ -5,7 +5,6 @@ import javafx.scene.image.Image;
 /**
  * Represents a Legion unit.
  *
- * @author Jim Harris
  * @version 1.0
  */
 class LegionUnit extends MeleeUnit {
