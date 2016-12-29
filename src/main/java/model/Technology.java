@@ -3,7 +3,6 @@ package model;
 /**
  * Holds all the Technology information for a Civilization
  *
- * @author Ryan Voor
  * @version 2.0
  */
 public class Technology {
