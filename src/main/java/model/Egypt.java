@@ -4,7 +4,6 @@ package model;
  * Represents the Egypt Civilization.
  *
  * @version 2.0
- * @author Angie Palm, Jim Harris
  */
 public class Egypt extends Civilization {
     private Desert desert = new Desert();
