@@ -4,7 +4,6 @@ package model;
  * Represents some animal that can be hunted, killed, and eaten.
  *
  * @version 2.0
- * @author Angie Palm
  */
 class Game {
     private int healthIncrease;
