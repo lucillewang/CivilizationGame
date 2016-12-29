@@ -4,7 +4,6 @@ package model;
  * Represents the Roman Empire civilization.
  *
  * @version 2.0
- * @author Angie Palm, Jim Harris
  */
 public class RomanEmpire extends Civilization {
     private Hills hills = new Hills();
