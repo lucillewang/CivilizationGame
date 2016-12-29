@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
  * Represnts a Great Wall that can increase strategy.
  *
  * @version 1.0
- * @author Jim Harris
  */
 class GreatWall extends Landmark {
 
