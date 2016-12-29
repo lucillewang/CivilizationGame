@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
  * Represents a Pyramid that can increase philosophy.
  *
  * @version 1.0
- * @author Jim Harris
  */
 class Pyramid extends Landmark {
 
