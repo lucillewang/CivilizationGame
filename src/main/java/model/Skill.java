@@ -6,7 +6,6 @@ import java.util.Random;
  * Represents the different specific technologies or skills that
  * a Civilization can acquire. There are 20 different Skills
  *
- * @author Ryan Voor
  * @version 1.0
  */
 enum Skill {
