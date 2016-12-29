@@ -2,7 +2,6 @@ package model;
 
 /**
  * represents a Fish in the FishingShack or River
- * @author Ryan Voor
  * @version 2.0
  */
 class Fish {
