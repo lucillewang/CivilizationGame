@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
  * Represents a Siege unit.
  *
  * @version 1.0
- * @author Jim Harris
  */
 class SiegeUnit extends MilitaryUnit {
 
