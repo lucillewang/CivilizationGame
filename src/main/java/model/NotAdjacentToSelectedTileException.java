@@ -5,7 +5,6 @@ package model;
  * the selected Tile and it needs to be.
  *
  * @version 1.0
- * @author Ryan Voor
  */
 class NotAdjacentToSelectedTileException extends Exception {
 
