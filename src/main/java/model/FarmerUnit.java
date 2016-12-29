@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
 /**
  * Represents a Farmer unit that can build a Farm.
  *
- * @author Jim Harris
  * @version 1.0
  */
 public class FarmerUnit extends Unit implements Convertable {
