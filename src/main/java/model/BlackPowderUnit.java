@@ -5,7 +5,6 @@ import javafx.scene.image.Image;
 /**
  * Represents a Black Powder unit.
  *
- * @author Jim Harris
  * @version 1.0
  */
 class BlackPowderUnit extends SiegeUnit {
