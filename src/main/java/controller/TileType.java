@@ -4,7 +4,6 @@ package controller;
  * An enum representing the terrain type of a TerrainTile.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public enum TileType {
 
