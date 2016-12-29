@@ -4,7 +4,6 @@ package model;
  * Represents the strategy or Military prowess of a Civilization.
  *
  * @version 1.0
- * @author Angie Palm
  */
 public class Strategy {
     private int strategyLevel;
