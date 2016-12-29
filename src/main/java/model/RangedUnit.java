@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
  * Represents a Ranged unit.
  *
  * @version 1.0
- * @author Jim Harris
  */
 class RangedUnit extends MilitaryUnit {
 
