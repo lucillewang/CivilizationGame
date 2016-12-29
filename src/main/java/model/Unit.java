@@ -4,7 +4,6 @@ package model;
  * Represents a Unit that is able to be hired and move around the map.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public abstract class Unit extends MapObject {
     private int baseEndurance;
