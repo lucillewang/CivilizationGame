@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
  * Represents a Military unit that is able to fight.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public abstract class MilitaryUnit extends Unit {
 
