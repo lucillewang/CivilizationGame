@@ -17,9 +17,6 @@ import view.TerrainTileFX;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 
-/**
- * Created by RuYiMarone on 11/11/2016.
- */
 public class GameController {
     private static TerrainTileFX lastClicked;
     private static Civilization playerCivilization;
