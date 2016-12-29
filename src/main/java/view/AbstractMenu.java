@@ -7,9 +7,6 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 
-/**
- * Created by RuYiMarone on 11/12/2016.
- */
 public class AbstractMenu {
     public static final int PREFWIDTH = 140;
     private Button exploreButton = new Button("Explore");
