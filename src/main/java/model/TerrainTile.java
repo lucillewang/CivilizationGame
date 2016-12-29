@@ -9,7 +9,6 @@ import java.util.HashMap;
  * MapObject occupant.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public class TerrainTile implements Symbolizable, Viewable {
     private MapObject occupant;
