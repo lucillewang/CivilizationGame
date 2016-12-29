@@ -4,7 +4,6 @@ package model;
  * Represents the Qin Dynasty Civiization.
  *
  * @version 2.0
- * @author Angie Palm, Jim Harris
  */
 public class QinDynasty extends Civilization {
     private Hills hills = new Hills();
