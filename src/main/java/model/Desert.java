@@ -7,7 +7,6 @@ import java.util.Scanner;
  * Represents a Desert that can be explored by a Civilization.
  *
  * @version 2.0
- * @author Angie Palm, Jim Harris
  */
 class Desert {
     private Scanner scan = new Scanner(System.in);
