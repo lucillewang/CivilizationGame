@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
  * Represents a Farm that can generate food.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public class Farm extends Building {
 
