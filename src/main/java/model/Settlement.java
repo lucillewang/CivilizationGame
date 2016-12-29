@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
  * Represents a settlement that produces philosophy and gold.
  *
  * @version 2.0
- * @author Angie Palm, Jim Harris
  */
 public class Settlement extends Building {
     private String name;
