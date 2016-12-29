@@ -4,7 +4,6 @@ package model;
  * Represents a Building that produces things for a Civilization.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public abstract class Building extends MapObject {
     private int goldGeneration;
