@@ -5,7 +5,6 @@ import java.util.Random;
 /**
  * Represents a custom Set data structure.
  *
- * @author Ryan Voor
  * @version 1.0
  */
 class MySet<E> implements SimpleSet<E> {
