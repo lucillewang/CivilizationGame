@@ -5,7 +5,6 @@ import javafx.scene.image.Image;
  * Represents a Coliseum that can increase happiness.
  *
  * @version 1.0
- * @author Jim Harris
  */
 class Coliseum extends Landmark {
 
