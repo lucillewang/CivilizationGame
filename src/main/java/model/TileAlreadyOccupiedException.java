@@ -5,7 +5,6 @@ package model;
  * occupied and is needed to be empty.
  *
  * @version 1.0
- * @author Ryan Voor
  */
 class TileAlreadyOccupiedException extends Exception {
 
