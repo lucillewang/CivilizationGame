@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
  * Represents a Landmark that can generate tech points.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public class Landmark extends Building {
 
