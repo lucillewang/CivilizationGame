@@ -6,7 +6,6 @@ import java.util.Random;
  * Represents a Civilization in the game.
  *
  * @version 3.0
- * @author Taylor Hartman, Ryan Voor, Jim Harris
  */
 public class Civilization {
     private static Random rand = new Random();
