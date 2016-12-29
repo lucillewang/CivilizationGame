@@ -5,7 +5,6 @@ import javafx.scene.image.Image;
  * Represents a coal mine that can generate resources.
  *
  * @version 2.0
- * @author Angie Palm, Jim Harris
  */
 class CoalMine extends Building {
     private static final int COAL = 20;
