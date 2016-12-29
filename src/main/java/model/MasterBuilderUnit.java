@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
 /**
  * Represents a Master Builder unit that can build a Landmark.
  *
- * @author Jim Harris
  * @version 1.0
  */
 public class MasterBuilderUnit extends Unit implements Convertable {
