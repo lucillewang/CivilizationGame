@@ -5,7 +5,6 @@ import javafx.scene.image.Image;
 
 /**
  * represents a FishingShack type of Building on a Tile on the Map
- * @author Ryan Voor
  * @version 3.0
  */
 public class FishingShack extends Building {
