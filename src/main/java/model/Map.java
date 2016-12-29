@@ -13,7 +13,6 @@ import java.util.Set;
  * compose the Map.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public class Map {
 
