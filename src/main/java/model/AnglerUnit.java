@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
 /**
  * Represents an angler unit that can build a FishingShack
  *
- * @author Jim Harris
  * @version 1.0
  */
 public class AnglerUnit extends Unit implements Convertable {
