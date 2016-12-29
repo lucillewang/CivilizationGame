@@ -4,7 +4,6 @@ package model;
  * Any class implementing this interface is a set
  * In other words it is a data structure that has
  * no particular ordering and only unique elements
- * @author Ryan Voor
  * @version 1.0
  */
 interface SimpleSet<E> {
