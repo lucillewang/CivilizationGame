@@ -7,7 +7,6 @@ import javafx.scene.image.Image;
  * Represents a Settler unit that can build a Settlement.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public class SettlerUnit extends Unit implements Convertable {
 
