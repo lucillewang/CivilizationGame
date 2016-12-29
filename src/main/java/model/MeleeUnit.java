@@ -5,7 +5,6 @@ import javafx.scene.image.Image;
 /**
  * Represents a Melee unit.
  *
- * @author Jim Harris
  * @version 1.0
  */
 class MeleeUnit extends MilitaryUnit {
