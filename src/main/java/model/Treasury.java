@@ -4,7 +4,6 @@ package model;
  * Represents the treasury of a civilization.
  *
  * @version 2.0
- * @author Angie Palm, Jim Harris (sorta)
  */
 public class Treasury {
     private int coins;
