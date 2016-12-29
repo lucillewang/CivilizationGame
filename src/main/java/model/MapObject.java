@@ -7,7 +7,6 @@ import javafx.scene.paint.Color;
  * Represents an object that can be placed on the game Map and damaged.
  *
  * @version 1.0
- * @author Jim Harris
  */
 public abstract class MapObject implements Symbolizable, Viewable {
     private int health;
