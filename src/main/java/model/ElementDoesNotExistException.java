@@ -5,7 +5,6 @@ package model;
  * particular tile.
  *
  * @version 1.0
- * @author Ryan Voor
  */
 public class ElementDoesNotExistException extends Exception {
     private Object object;
